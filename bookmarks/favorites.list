@@ -1,7 +1,9 @@
-# UPDATED: 2026-05-26
+# UPDATED: 2026-05-27
 DOMAIN-SUFFIX,4pda,PROXY,force-remote-dns
 DOMAIN-SUFFIX,rutracker,PROXY,force-remote-dns
 DOMAIN-SUFFIX,ikea.com,PROXY,force-remote-dns
 DOMAIN-SUFFIX,speedtest.net,PROXY,force-remote-dns
 DOMAIN-SUFFIX,meduza.io,PROXY,force-remote-dns
 DOMAIN-SUFFIX,openrouter.ai,PROXY,force-remote-dns
+DOMAIN-SUFFIX,perplexity.ai,PROXY,force-remote-dns
+DOMAIN-SUFFIX,pplx.ai,PROXY,force-remote-dns
